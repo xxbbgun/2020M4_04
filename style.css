@@ -16,3 +16,32 @@ body .container{
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
 }
+.pagination{
+    justify-content: center;
+    margin: 0 60px 15px;
+}
+.pagination.page-link{
+    color: black;
+}
+
+.footer{
+    padding-top: 25px;
+    border-top: 1px solid lightgray; 
+}
+.cc{
+    margin-left:120px;
+}
+.follow{
+    text-align: center;
+    font-size: 14px;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 120px;
+  
+}
+.col{
+    margin-bottom: 10px;
+}
+.inc{
+    font-size: 12px;
+    margin-top: 10px;
+}
