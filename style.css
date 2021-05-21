@@ -54,12 +54,16 @@ body .container{
     .col-9{
         width: 65%;
     }
-   
+    .list-group-item{
+        border: none;
+    }
  }
  @media screen and  (min-width:576px) and (max-width:768px){
     .col-9{
         width: 40%;
     }
-   
+    .list-group-item{
+        border: none;
+    }
  }
 
